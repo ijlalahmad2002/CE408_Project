@@ -1,9 +1,0 @@
-=> python3 ~/log_generator.py &
-
-=> tail -f /var/log/myapp/app.log
-
-=> pkill -f log_generator.py
-
-=> Public IPv4 address: 3.80.255.240
-
-=> arn:aws:sns:us-east-1:017540984214:LogAlerts
